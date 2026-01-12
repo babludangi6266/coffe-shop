@@ -213,7 +213,7 @@ const videos = [
         >
           {/* <source src="https://www.pexels.com/download/video/1776352/" type="video/mp4" />
            */}
-           <source src="../public/cafe-video.mp4" type="video/mp4" />
+           <source src="/cafe-video2.mp4" type="video/mp4" />
         </video>
         <div className="video-overlay"></div>
         
