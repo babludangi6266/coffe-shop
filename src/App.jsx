@@ -298,7 +298,7 @@ const videos = [
             className="floating-img img-1"
           />
           <img 
-            src="https://images.unsplash.com/photo-1575865980857-59d3d5c48c1b?ixlib=rb-4.0.3&auto=format&fit=crop&w-400&q=80" 
+            src="https://images.unsplash.com/photo-1610632380989-680fe40816c6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?ixlib=rb-4.0.3&auto=format&fit=crop&w-400&q=80" 
             alt="Coffee" 
             className="floating-img img-2"
           />
