@@ -65,7 +65,8 @@ function App() {
         { id: 1, name: "Adrak Wali Masala Chai", price: "₹80", desc: "Ghar jaisi feeling, par better ☕", popular: true, insta: true, likes: 142 },
         { id: 2, name: "Kashmiri Kahwa", price: "₹120", desc: "Saffron wali garmi for your soul", popular: true, insta: false, likes: 89 },
         { id: 3, name: "Rose Cardamom Chai", price: "₹95", desc: "Flowers in your cup, love in every sip", popular: false, insta: true, likes: 67 },
-        { id: 4, name: "Butter Scotch Cold Coffee", price: "₹180", desc: "Summer ki savior, Insta ki hero", popular: true, insta: true, likes: 156 }
+        { id: 4, name: "Butter Scotch Cold Coffee", price: "₹180", desc: "Summer ki savior, Insta ki hero", popular: true, insta: true, likes: 156 },
+        { id: 5, name: "Hot Chai", price: "₹80", desc: "Winter ki savior, Insta ki hero", popular: true, insta: true, likes: 156 },
       ]
     },
     {
@@ -180,7 +181,8 @@ const videos = [
       "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600",
       "https://images.unsplash.com/photo-1561047029-3000c68339ca?w-600",
       "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w-600",
-      "https://images.unsplash.com/photo-1570598912132-0ba1dc952b7d?w=600"
+      "https://images.unsplash.com/photo-1570598912132-0ba1dc952b7d?w=600",
+      "https://images.unsplash.com/photo-1563813480871-6702e1a7a2f6?w=600"
     ],
     "Snack Attack": [
       "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600",
